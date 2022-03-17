@@ -1,0 +1,21 @@
+[2022-03-18 01:42:39] [info] Start Program:
+Path:"C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\x64\Debug\Lab2-4.exe"
+Arguments:
+Working directory: "C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\"
+Modules: Selected: C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\x64\Debug\Lab2-4.exe Excluded: 
+Sources: Selected: C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master Excluded: agentie_imob.c 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Andrei\AppData\Local\Temp\ebfqqhdj.oov 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-03-18 01:42:39] [info] Module: C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\x64\Debug\Lab2-4.exe is selected because it matches selected pattern: C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\x64\Debug\Lab2-4.exe
+[2022-03-18 01:42:42] [info] ----------------------------------------------------
+[2022-03-18 01:42:42] [info] Coverage binary generated in file: C:\Users\Andrei\AppData\Local\Temp\ebfqqhdj.oov
+[2022-03-18 01:42:42] [info] ----------------------------------------------------

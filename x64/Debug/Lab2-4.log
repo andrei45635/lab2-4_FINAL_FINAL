@@ -1,0 +1,4 @@
+﻿  service.c
+C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\service.c(52,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'offer *'
+C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\service.c(18): warning C4715: 'createService': not all control paths return a value
+  Lab2-4.vcxproj -> C:\Users\Andrei\Desktop\Facultate\OOP\Lab2-4_better-master\x64\Debug\Lab2-4.exe
